@@ -2,3 +2,4 @@ test
 without commit
 amend
 fggg
+master
