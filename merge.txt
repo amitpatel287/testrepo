@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 master merge
+=======
+
+branch merge
+>>>>>>> merge
